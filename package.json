@@ -1,0 +1,27 @@
+{
+  "name": "whalez_questions",
+  "version": "1.0.0",
+  "description": "Assesment Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cumulus13/whalez_questions.git"
+  },
+  "keywords": [
+    "assessment",
+    "questions",
+    "whalez"
+  ],
+  "author": "cumulus13@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cumulus13/whalez_questions/issues"
+  },
+  "homepage": "https://github.com/cumulus13/whalez_questions#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
